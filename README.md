@@ -9,7 +9,7 @@ Maven repository for my personal projects
 
 ## to be added soon:
 * `kieda:yapping:1.0`
-  * **Y**et **A**nother **P**roperties **P**arser **I**n **G**java
+  * **<font size="3">Y</font>**et **<font size="3">A</font>**nother **<font size="3">P</font>**roperties **<font size="3">P</font>**arser **<font size="3">In</font>** **<font size="3">G</font>**java
   * Cool DSL + framework for recursive structured text parsing
   * Currently housed in ceramic-autogen
 * `kieda:collections:1.0`
