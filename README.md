@@ -6,6 +6,9 @@ Maven repository for my personal projects
   * small library for using sealed classes as enums
 * `kieda:quadtree`
   * quadtree implementation with generics
+* `kieda:protag`
+  * Property Record Object | Tree Automata Grammar
+  * Custom language for specifying rewriting grammars that can have restricted complexity
 
 ## to be added soon:
 * `kieda:yapping`
